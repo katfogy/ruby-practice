@@ -3,6 +3,6 @@
 #    puts(friend) 
 # end
 
-for index in 0..100 do
+for index in 0..100
     puts(index)
 end

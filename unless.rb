@@ -1,6 +1,6 @@
-num=1;
-unless num<0
-    puts("#{num} is More than zero")
+is_online=true
+unless is_online
+    puts("Maintenance")
 else
-    puts("#{num} is less than zero")
+    puts("Online")
 end
